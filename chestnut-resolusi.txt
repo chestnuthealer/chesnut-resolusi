@@ -1,0 +1,4 @@
+Resolusi Chesnut
+- Fokus pada frontend development
+- Fokus pada backend development
+- Pelajari intergrasi Fronted dan Backend
