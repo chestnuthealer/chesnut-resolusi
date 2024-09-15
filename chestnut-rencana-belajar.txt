@@ -1,0 +1,4 @@
+Rencana Belajar Chestnut
+
+- Belajar Tentang Deployment dan DevOps
+- Pahami Keamanan Web
