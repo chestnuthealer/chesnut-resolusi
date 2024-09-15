@@ -5,3 +5,7 @@ Rencana Belajar Chestnut
   * Digital Ocean atau VPS
 - Tingkatkan Kemampuan dengan Proyek
 - Pahami Keamanan Web
+  * API
+  * SQL Ijection
+  * CSRF
+- Bangun Jaringan dan Terus Belajar
