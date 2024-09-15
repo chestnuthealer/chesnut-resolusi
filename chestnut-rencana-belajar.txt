@@ -1,0 +1,6 @@
+Rencana Belajar Chestnut
+
+- Belajar Tentang Deployment dan DevOps
+  * AWS
+  * Digital Ocean atau VPS
+- Pahami Keamanan Web
