@@ -4,5 +4,7 @@ Rencana Belajar Chestnut
   * Docker dan CI/CD
   * AWS
 - Pahami Keamanan Web
-  * XSS
-  * JWT (Jason Web Token) 
+  * API
+  * SQL Ijection
+  * CSRF
+- Bangun Jaringan dan Terus Belajar
