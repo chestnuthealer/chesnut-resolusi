@@ -7,4 +7,5 @@ Rencana Belajar Chestnut
 - Pahami Keamanan Web
   * API
   * SQL Ijection
+  * CSRF
 - Bangun Jaringan dan Terus Belajar
